@@ -4,7 +4,7 @@
 
 **It is a multiclass classification problem aimed at bucketing the user activity into three buckets: (Non-hand-oriented activities, Hand-oriented activities - General, Hand-oriented activities - Eating)**
 
-# Following python libraries were made us of.
+## Following python libraries were made us of.
 * scipy.io, os, numpy, sklearn, pandas, matplotlib, seaborn, plotly, scipy, time
 
 ## Amazon sagemaker is used for model building ,training, deployment and tuning.
